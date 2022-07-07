@@ -1,3 +1,4 @@
+/*
 package com.example.demo;
 
 import org.springframework.context.annotation.Bean;
@@ -11,8 +12,11 @@ public class MyConfiguration {
         return new HpPrinter();
     }
 
-    /*@Bean
+    */
+/*@Bean
     public Printer yourPrinter(){
         return new CanonPrinter();
-    }*/
+    }*//*
+
 }
+*/
